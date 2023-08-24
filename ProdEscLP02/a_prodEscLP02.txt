@@ -1,0 +1,8 @@
+Flat profile:
+
+Each sample counts as 0.01 seconds.
+  %   cumulative   self              self     total           
+ time   seconds   seconds    calls   s/call   s/call  name    
+ 83.29      2.89     2.89        2     1.45     1.45  inicializarVetor
+ 16.71      3.47     0.58        1     0.58     0.58  prodEscalar
+  0.00      3.47     0.00        1     0.00     0.00  solucao
